@@ -5,7 +5,7 @@
    Gromacs to Lammps simulation converter
 
 ## Version
-   GRO2LAM version 1.12 (20 Dec 2018) - BETA
+   GRO2LAM version 1.12 (20 Dec 2018)
    
    :new:New features : 
 <!--ts-->
@@ -15,10 +15,6 @@
    * Accepts #define tag in dihedrals in the 'top' file.
 <!--te-->
 
-   New (possible) features in next release: 
-<!--ts-->
-   * To accept improper dihedral type. (An example to work with is needed)
-<!--te-->
 ## Table of contents
 
 <!--ts-->
